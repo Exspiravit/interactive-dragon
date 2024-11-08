@@ -32,4 +32,4 @@ Referencia: https://github.com/TheTvink001/Interactive-Dragon
 
 ## Test
 
-Puedes probarlo desde este enlace: https://chandelier-animation.netlify.app/
+Puedes probarlo desde este enlace: https://interactivedragon.netlify.app/

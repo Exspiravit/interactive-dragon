@@ -29,3 +29,7 @@ Este proyecto es una aplicación web interactiva que simula el movimiento de un 
 ## Créditos
 
 Referencia: https://github.com/TheTvink001/Interactive-Dragon
+
+## Test
+
+Puedes probarlo desde este enlace: https://chandelier-animation.netlify.app/
